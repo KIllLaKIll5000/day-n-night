@@ -1,0 +1,74 @@
+.day{
+    background-color:red ;
+}
+
+.night{
+    background-color: black;
+    
+}
+
+
+
+#orb{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+    
+}
+.sun{
+    background-color: black;
+    border: 10px solid darkred;
+}
+
+.sun:hover{
+    border: 20px solid darkred;
+    
+}
+
+.moon{
+background-color: red;
+ border 20px solid darkred;
+ 
+}
+
+.moon:hover{
+    border: 20px solid darkred ;
+}
+
+#moonspot1{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    float: right;
+    margin: 20px;
+    
+}
+#moonspot2{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    float: right;
+    margin: 20px;
+    
+}
+#moonspot3{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    float: right;
+    margin: 20px;
+    
+}
+
+.visible{
+    background-color: black;
+    
+    
+}
